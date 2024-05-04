@@ -1,12 +1,12 @@
-CID_703_Athena_Commando_M_Cyclone, 0
-CID_761_Athena_Commando_M_CycloneSpace, 0
-Pickaxe_ID_359_CycloneMale, 0
+CID_760_Athena_Commando_F_NeonTightSuit, 500
+CID_625_Athena_Commando_F_PinkTrooper, 800
+Pickaxe_ID_363_LollipopTricksterFemale, 500
 na
 na
 na
-CID_620_Athena_Commando_L_BigChuggus, 0
-Pickaxe_ID_179_StarWand, 800
+CID_655_Athena_Commando_F_Barefoot, 0
+Pickaxe_ID_376_FNCS, 700
 Wrap_128_FragmentedGlowEclipse, 400
 CID_715_Athena_Commando_F_TwinDark, 1200
-Pickaxe_ID_142_TeriyakiFish, 500
+Pickaxe_ID_294_CandyCane, 800
 EID_Griddle_Beyond, 0
